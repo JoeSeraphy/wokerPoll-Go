@@ -18,7 +18,7 @@ Este Projeto foi desenvolvido usando seguinte tecnolia:
 Clone o projeto pare ter acessos dos arquivos.
 
 ```bash
-git clone https://github.com/JoeSeraphy/
+git clone https://github.com/JoeSeraphy/wokerPoll-Go.git
 
 cd wokerPool-Go
 ```
