@@ -18,7 +18,7 @@ Este Projeto foi desenvolvido usando seguinte tecnolia:
 Clone o projeto pare ter acessos dos arquivos.
 
 ```bash
-git clone https://github.com/JoeSeraphy/landing-page-SpaceY.git
+git clone https://github.com/JoeSeraphy/
 
 cd wokerPool-Go
 ```
